@@ -1,67 +1,66 @@
 <p align="center">
-  <img src="./profile-banner.svg" width="1200" alt="Felipe Carvalho — Desenvolvimento full stack e análise de dados. TOTVS Protheus, Fluig e Python." />
+  <a href="https://lipestile.github.io"><img src="https://raw.githubusercontent.com/lipestile/lipestile/7e226400119ee2836152ae70acfdfac8a00e8da7/profile-banner.svg" width="100%" alt="Felipe Carvalho (@lipestile). Ecossistema TOTVS, Full Stack e Inteligência de Dados. Protheus e Fluig, Python e dados, TypeScript e APIs. Disponível para projetos em Brasília. Abrir portfólio." /></a>
 </p>
 
 <p align="center">
-  <a href="https://lipestile.github.io"><strong>Conheça meu portfólio</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/felipe-carvalho-balbino-da-silva-092241272/">Conecte-se no LinkedIn</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/lipestile?tab=repositories">Explore meus repositórios</a>
+  <a href="https://lipestile.github.io/#terminal"><img src="./profile-terminal.svg" width="47%" alt="Testar terminal interativo no portfólio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/felipe-carvalho-balbino-da-silva-092241272/"><img src="./profile-contact.svg" width="47%" alt="Conectar com Felipe no LinkedIn" /></a>
 </p>
 
-<p align="center">Brasília, DF · Disponível para projetos</p>
+<br />
 
-## Olá, sou o Felipe
+### Do ERP ao insight.
 
-Desenvolvo integrações para conectar **sistemas corporativos, processos e dados**. Meu foco está no ecossistema **TOTVS Protheus e Fluig**, com Python para automação e análise de dados.
+Desenvolvo integrações no ecossistema **TOTVS Protheus e Fluig**, conectando processos corporativos a interfaces web e automações com **Python**. Meu foco: arquitetura clara, APIs bem definidas e soluções fáceis de manter.
 
-Curso **Análise e Desenvolvimento de Sistemas no IESB** e **Engenharia de Software na Anhanguera**. Busco construir soluções com arquitetura clara, APIs bem definidas e código fácil de manter.
+<br />
 
-## Onde concentro meu trabalho
+### Código em prática
 
-| Especialidade | Foco |
-| :--- | :--- |
-| **ERP e processos** | Protheus, desenvolvimento em ADVPL e TL++, fluxos de aprovação e integração de processos no Fluig. |
-| **Dados e automação** | Pipelines ETL com Python, análise com Pandas e NumPy e consultas em SQL Server e Oracle. |
-| **Aplicações e APIs** | Integrações REST e interfaces com JavaScript, TypeScript, Node.js e PO-UI. |
-| **Qualidade e entrega** | Versionamento com Git, automação com GitHub Actions e ambientes com Docker. |
+**[EvidencIA](https://github.com/evidencia-grupo/EvidencIA)**  
+Projeto em equipe: extensão para checagem factual de vídeos do YouTube com inteligência artificial.  
+<sub>TypeScript · Python · IA · Extensão de navegador</sub>
 
-## Tecnologias
+**[Nano-Chalange](https://github.com/lipestile/Nano-Chalange)**  
+Atividade e desafios desenvolvidos em Python.  
+<sub>Python · Desenvolvimento em equipe</sub>
 
-**TOTVS**  
-Protheus · Fluig BPM/ECM · ADVPL · TL++ · PO-UI
+**[Explore meus repositórios](https://github.com/lipestile?tab=repositories)** · **[Conheça os cases do portfólio](https://lipestile.github.io/#solucoes)**
 
-**Dados**  
-Python · Pandas · NumPy · SQL Server · Oracle · ETL
-
-**Web**  
-JavaScript · TypeScript · Node.js · APIs REST · Tailwind CSS
-
-**Ferramentas**  
-Git · GitHub Actions · Docker · VS Code / TDS · Postman
+<br />
 
 <details>
-<summary><strong>O que estou aprofundando</strong></summary>
+<summary><strong>Stack técnica</strong></summary>
 
-- Orientação a objetos com TL++.
-- Fluxos de aprovação dinâmicos com Fluig e BPMN.
-- Integração de APIs REST e desenvolvimento de interfaces com PO-UI.
-- Automação de integração e entrega contínua com GitHub Actions.
+<br />
+
+**ERP & processos**  
+TOTVS Protheus · Fluig BPM/ECM · ADVPL · TL++ · PO-UI
+
+**Dados & automação**  
+Python · Pandas · NumPy · SQL Server · Oracle · ETL
+
+**Web & integrações**  
+JavaScript · TypeScript · Node.js · APIs REST · Tailwind CSS
+
+**Desenvolvimento & entrega**  
+Git · GitHub Actions · Docker · VS Code / TDS · Postman
 
 </details>
 
-## Explore meu trabalho
+<details>
+<summary><strong>Formação & estudos atuais</strong></summary>
 
-No portfólio, apresento cases de integração ERP, pipelines de dados e um terminal de desenvolvedor interativo.
+<br />
 
-**[Abrir portfólio](https://lipestile.github.io)** · **[Ver repositórios](https://github.com/lipestile?tab=repositories)**
+Curso **Análise e Desenvolvimento de Sistemas no IESB** e **Engenharia de Software na Anhanguera**.
 
-Para conversar sobre projetos, entre em contato pelo **[LinkedIn](https://www.linkedin.com/in/felipe-carvalho-balbino-da-silva-092241272/)**.
+Estou aprofundando orientação a objetos com TL++, fluxos dinâmicos no Fluig, interfaces com PO-UI e integração contínua com GitHub Actions.
 
----
+</details>
 
-<p align="center">
-  <sub>Felipe Carvalho · Brasília, Brasil</sub><br />
-  <sub>“May the Source be with you.”</sub>
-</p>
+<br />
+
+<p align="center"><sub>“May the Source be with you.”</sub></p>
+
