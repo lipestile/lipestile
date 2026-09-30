@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://lipestile.github.io"><strong>Conheça meu portfólio</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/felipecarvalho">Conecte-se no LinkedIn</a>
+  <a href="https://www.linkedin.com/in/felipe-carvalho-balbino-da-silva-092241272/">Conecte-se no LinkedIn</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/lipestile?tab=repositories">Explore meus repositórios</a>
 </p>
@@ -57,7 +57,7 @@ No portfólio, apresento cases de integração ERP, pipelines de dados e um term
 
 **[Abrir portfólio](https://lipestile.github.io)** · **[Ver repositórios](https://github.com/lipestile?tab=repositories)**
 
-Para conversar sobre projetos, entre em contato pelo **[LinkedIn](https://linkedin.com/in/felipecarvalho)**.
+Para conversar sobre projetos, entre em contato pelo **[LinkedIn](https://www.linkedin.com/in/felipe-carvalho-balbino-da-silva-092241272/)**.
 
 ---
 
