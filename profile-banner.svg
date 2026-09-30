@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Felipe Carvalho — Desenvolvimento full stack e análise de dados</title>
+<desc id="desc">Banner azul com nome, especialidades TOTVS Protheus, Fluig e Python e diagrama conectando ERP, API e dados.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#254565" stroke-width=".7"/></pattern></defs>
+<rect width="1200" height="360" rx="20" fill="#102D4E"/>
+<rect x="720" width="480" height="360" fill="url(#grid)"/>
+<path d="M0 340H1200" stroke="#D4AF37" stroke-width="4"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="64" y="94" font-size="21" fill="#C9D9E9">Software conectado ao negócio.</text>
+<text x="60" y="167" font-size="59" font-weight="700" letter-spacing="-2" fill="#FFFFFF">Felipe Carvalho</text>
+<text x="64" y="217" font-size="23" fill="#E3EBF3">Desenvolvimento full stack &amp; análise de dados</text>
+<text x="64" y="276" font-size="19" fill="#E6C967">TOTVS Protheus / Fluig / Python</text>
+<g stroke="#7E9EBE" stroke-width="2" fill="none"><path d="M860 112V172H986V240"/><path d="M860 172V240"/><circle cx="860" cy="172" r="5" fill="#E6C967" stroke="#E6C967"/></g>
+<g fill="#173C61" stroke="#54799E"><rect x="800" y="65" width="120" height="55" rx="10"/><rect x="800" y="237" width="120" height="55" rx="10"/><rect x="952" y="237" width="136" height="55" rx="10"/></g>
+<g font-size="18" font-weight="600" fill="#FFFFFF" text-anchor="middle"><text x="860" y="100">ERP</text><text x="860" y="272">APIs</text><text x="1020" y="272">Dados</text></g>
+<text x="953" y="154" font-size="16" fill="#C9D9E9">Integrar.</text><text x="953" y="179" font-size="16" fill="#C9D9E9">Automatizar.</text><text x="953" y="204" font-size="16" fill="#C9D9E9">Analisar.</text>
+</g></svg>
