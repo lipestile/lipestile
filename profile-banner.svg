@@ -1,17 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Felipe Carvalho — Desenvolvimento full stack e análise de dados</title>
-<desc id="desc">Banner azul com nome, especialidades TOTVS Protheus, Fluig e Python e diagrama conectando ERP, API e dados.</desc>
-<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#254565" stroke-width=".7"/></pattern></defs>
-<rect width="1200" height="360" rx="20" fill="#102D4E"/>
-<rect x="720" width="480" height="360" fill="url(#grid)"/>
-<path d="M0 340H1200" stroke="#D4AF37" stroke-width="4"/>
-<g font-family="Segoe UI,Arial,sans-serif">
-<text x="64" y="94" font-size="21" fill="#C9D9E9">Software conectado ao negócio.</text>
-<text x="60" y="167" font-size="59" font-weight="700" letter-spacing="-2" fill="#FFFFFF">Felipe Carvalho</text>
-<text x="64" y="217" font-size="23" fill="#E3EBF3">Desenvolvimento full stack &amp; análise de dados</text>
-<text x="64" y="276" font-size="19" fill="#E6C967">TOTVS Protheus / Fluig / Python</text>
-<g stroke="#7E9EBE" stroke-width="2" fill="none"><path d="M860 112V172H986V240"/><path d="M860 172V240"/><circle cx="860" cy="172" r="5" fill="#E6C967" stroke="#E6C967"/></g>
-<g fill="#173C61" stroke="#54799E"><rect x="800" y="65" width="120" height="55" rx="10"/><rect x="800" y="237" width="120" height="55" rx="10"/><rect x="952" y="237" width="136" height="55" rx="10"/></g>
-<g font-size="18" font-weight="600" fill="#FFFFFF" text-anchor="middle"><text x="860" y="100">ERP</text><text x="860" y="272">APIs</text><text x="1020" y="272">Dados</text></g>
-<text x="953" y="154" font-size="16" fill="#C9D9E9">Integrar.</text><text x="953" y="179" font-size="16" fill="#C9D9E9">Automatizar.</text><text x="953" y="204" font-size="16" fill="#C9D9E9">Analisar.</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Felipe Carvalho — Ecossistema TOTVS, Full Stack e Inteligência de Dados</title>
+<desc id="desc">Perfil lipestile. Desenvolvedor full stack TOTVS e analista de dados em Brasília. Especialidades: Protheus e Fluig, Python e dados, interfaces e APIs. Explore o portfólio.</desc>
+<defs>
+ <radialGradient id="halo"><stop stop-color="#D4AF37" stop-opacity=".14"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></radialGradient>
+ <radialGradient id="blue"><stop stop-color="#3474A5" stop-opacity=".1"/><stop offset="1" stop-color="#3474A5" stop-opacity="0"/></radialGradient>
+ <linearGradient id="gold" x1="0" x2="1" y2=".3"><stop stop-color="#BDA03B"/><stop offset=".5" stop-color="#F5E3A6"/><stop offset="1" stop-color="#D4AF37"/></linearGradient>
+ <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#14141C"/><stop offset="1" stop-color="#0E0E15"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#4D4225"/><stop offset=".5" stop-color="#21212B"/><stop offset="1" stop-color="#4D4225"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="698" rx="24" fill="#08080C" stroke="url(#edge)" stroke-width="2"/>
+<ellipse cx="600" cy="125" rx="520" ry="240" fill="url(#halo)"/>
+<ellipse cx="1090" cy="495" rx="300" ry="220" fill="url(#blue)"/>
+<g fill="none" stroke="#D4AF37" opacity=".13">
+ <ellipse cx="1060" cy="240" rx="210" ry="84" transform="rotate(-38 1060 240)"/>
+ <ellipse cx="1060" cy="240" rx="135" ry="130" transform="rotate(-38 1060 240)"/>
+ <path d="M72 372L179 333L231 360M955 395L1045 370L1126 394M923 76L1000 109L1100 73"/>
+</g>
+<g fill="#D4AF37" opacity=".45"><circle cx="72" cy="372" r="2"/><circle cx="179" cy="333" r="2"/><circle cx="1126" cy="394" r="2"/><circle cx="1100" cy="73" r="2"/><circle cx="164" cy="180" r="1.5"/><circle cx="1064" cy="330" r="2"/><circle cx="260" cy="111" r="2"/><circle cx="994" cy="131" r="2"/><circle cx="888" cy="448" r="1.5"/></g>
+<g font-family="Arial,Helvetica,sans-serif">
+ <rect x="40" y="32" width="48" height="48" rx="13" fill="#D4AF37" fill-opacity=".12" stroke="#D4AF37" stroke-opacity=".45"/>
+ <text x="64" y="62" text-anchor="middle" fill="#EED68E" font-family="monospace" font-size="24" font-weight="700">&lt;/&gt;</text>
+ <text x="103" y="62" fill="#C9C9D1" font-size="19" font-weight="600">@lipestile</text>
+ <text x="1156" y="62" text-anchor="end" fill="#9C9CA9" font-size="17">Brasília, Brasil</text>
+ <rect x="438" y="102" width="324" height="38" rx="19" fill="#141411" stroke="#443B22"/>
+ <circle cx="462" cy="121" r="4" fill="#70D6B0"/>
+ <text x="600" y="127" text-anchor="middle" fill="#DDC77D" font-size="16" letter-spacing="1.2">Disponível para projetos</text>
+ <text x="0" y="0" transform="translate(600 236) scale(1.55 1)" text-anchor="middle" fill="#F8F8FA" font-size="93" font-weight="800" letter-spacing="-5">Felipe Carvalho</text>
+ <text x="600" y="300" text-anchor="middle" fill="#D8D8E0" font-size="37">Ecossistema <tspan fill="url(#gold)" font-weight="700">TOTVS</tspan> · Full Stack</text>
+ <text x="600" y="350" text-anchor="middle" fill="#ABAAB7" font-size="38" font-style="italic">Inteligência de Dados</text>
+ <text x="600" y="407" text-anchor="middle" fill="#B5B5C1" font-size="22">Conectando processos empresariais, interfaces e dados.</text>
+ <rect x="449" y="436" width="302" height="49" rx="12" fill="url(#gold)"/>
+ <text x="594" y="467" text-anchor="middle" fill="#14120A" font-size="18" font-weight="700">Explorar meu portfólio</text>
+ <path d="M716 454L724 462L716 470" fill="none" stroke="#14120A" stroke-width="2"/>
+ <path d="M48 515H1152" stroke="#23232C"/>
+ <g fill="url(#panel)" stroke="#292933"><rect x="48" y="543" width="352" height="108" rx="15"/><rect x="424" y="543" width="352" height="108" rx="15"/><rect x="800" y="543" width="352" height="108" rx="15"/></g>
+ <path d="M70 566V592M446 566V592M822 566V592" stroke="#D4AF37" stroke-width="3"/>
+ <text x="87" y="590" font-size="27" font-weight="700" fill="#EED68E">Protheus &amp; Fluig</text>
+ <text x="87" y="624" font-size="18" fill="#A4A4B1">ADVPL / TL++ / BPM</text>
+ <text x="463" y="590" font-size="27" font-weight="700" fill="#EED68E">Python &amp; Dados</text>
+ <text x="463" y="624" font-size="18" fill="#A4A4B1">Pandas / SQL / ETL</text>
+ <text x="839" y="590" font-size="27" font-weight="700" fill="#EED68E">Full Stack</text>
+ <text x="839" y="624" font-size="18" fill="#A4A4B1">TypeScript / Node.js / APIs</text>
+</g>
+</svg>
