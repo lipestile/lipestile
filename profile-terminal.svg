@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="96" viewBox="0 0 500 96" role="img" aria-labelledby="title"><title id="title">Abrir terminal interativo do portfólio</title>
+<rect x="1" y="1" width="498" height="94" rx="18" fill="#0E0E15" stroke="#33313A" stroke-width="2"/>
+<path d="M30 36L42 48L30 60M48 61H61" stroke="#79D6B0" stroke-width="3" fill="none"/>
+<text x="82" y="56" font-family="Arial,sans-serif" font-size="25" font-weight="600" fill="#EAEAF0">Testar terminal interativo</text><path d="M456 39H468V51M468 39L453 54" stroke="#D5BA62" stroke-width="2" fill="none"/></svg>
